@@ -1,0 +1,392 @@
+{
+  "data": {
+    "pathway_list": [
+      {
+        "pathway_a": "Cellular Processes",
+        "pathway_b": "Cell growth and death",
+        "pathway_c": "Apoptosis ",
+        "si_down_log_p": 3.4138753844,
+        "si_log_p": 5.97747564,
+        "si_up_log_p": 2.6033099586
+      },
+      {
+        "pathway_a": "Cellular Processes",
+        "pathway_b": "Cell growth and death",
+        "pathway_c": "Cell cycle ",
+        "si_down_log_p": 6.2483401214,
+        "si_log_p": 10.1587040205,
+        "si_up_log_p": 3.7415798848
+      },
+      {
+        "pathway_a": "Cellular Processes",
+        "pathway_b": "Cell growth and death",
+        "pathway_c": "Oocyte meiosis ",
+        "si_down_log_p": 3.0541112652,
+        "si_log_p": 4.1798990942,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Cellular Processes",
+        "pathway_b": "Cell growth and death",
+        "pathway_c": "p53 signaling pathway ",
+        "si_down_log_p": 5.4122384103,
+        "si_log_p": 10.0813786048,
+        "si_up_log_p": 4.0797762627
+      },
+      {
+        "pathway_a": "Cellular Processes",
+        "pathway_b": "Cell motility",
+        "pathway_c": "Regulation of actin cytoskeleton ",
+        "si_down_log_p": 4.1542266593,
+        "si_log_p": 4.9543125694,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Cellular Processes",
+        "pathway_b": "Cellular commiunity",
+        "pathway_c": "Adherens junction ",
+        "si_down_log_p": 0,
+        "si_log_p": 4.4762427573,
+        "si_up_log_p": 2.5203570619
+      },
+      {
+        "pathway_a": "Cellular Processes",
+        "pathway_b": "Cellular commiunity",
+        "pathway_c": "Focal adhesion ",
+        "si_down_log_p": 0,
+        "si_log_p": 5.2470064966,
+        "si_up_log_p": 4.5750536662
+      },
+      {
+        "pathway_a": "Cellular Processes",
+        "pathway_b": "Transport and catabolism",
+        "pathway_c": "Endocytosis ",
+        "si_down_log_p": 0,
+        "si_log_p": 6.4886847445,
+        "si_up_log_p": 5.64989507
+      },
+      {
+        "pathway_a": "Environmental Information Processing",
+        "pathway_b": "Signal transduction",
+        "pathway_c": "ErbB signaling pathway ",
+        "si_down_log_p": 2.715684979,
+        "si_log_p": 6.8064909862,
+        "si_up_log_p": 4.1858834403
+      },
+      {
+        "pathway_a": "Environmental Information Processing",
+        "pathway_b": "Signal transduction",
+        "pathway_c": "Jak-STAT signaling pathway ",
+        "si_down_log_p": 0,
+        "si_log_p": 4.4770981919,
+        "si_up_log_p": 6.2372162536
+      },
+      {
+        "pathway_a": "Environmental Information Processing",
+        "pathway_b": "Signal transduction",
+        "pathway_c": "MAPK signaling pathway ",
+        "si_down_log_p": 0,
+        "si_log_p": 3.933250411,
+        "si_up_log_p": 3.6435499264
+      },
+      {
+        "pathway_a": "Environmental Information Processing",
+        "pathway_b": "Signal transduction",
+        "pathway_c": "mTOR signaling pathway ",
+        "si_down_log_p": 2.6172863901,
+        "si_log_p": 3.7610309378,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Environmental Information Processing",
+        "pathway_b": "Signal transduction",
+        "pathway_c": "Notch signaling pathway ",
+        "si_down_log_p": 0,
+        "si_log_p": 2.3058898805,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Environmental Information Processing",
+        "pathway_b": "Signal transduction",
+        "pathway_c": "Phosphatidylinositol signaling system ",
+        "si_down_log_p": 3.8036905321,
+        "si_log_p": 2.317783471,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Environmental Information Processing",
+        "pathway_b": "Signal transduction",
+        "pathway_c": "TGF-beta signaling pathway ",
+        "si_down_log_p": 0,
+        "si_log_p": 2.6509818661,
+        "si_up_log_p": 5.1083794923
+      },
+      {
+        "pathway_a": "Environmental Information Processing",
+        "pathway_b": "Signal transduction",
+        "pathway_c": "VEGF signaling pathway ",
+        "si_down_log_p": 0,
+        "si_log_p": 3.374405195,
+        "si_up_log_p": 2.6524326322
+      },
+      {
+        "pathway_a": "Genetic Information Processing",
+        "pathway_b": "Folding, sorting and degradation",
+        "pathway_c": "Ubiquitin mediated proteolysis ",
+        "si_down_log_p": 4.4072659286,
+        "si_log_p": 7.3167344016,
+        "si_up_log_p": 3.0319451227
+      },
+      {
+        "pathway_a": "Genetic Information Processing",
+        "pathway_b": "Translation",
+        "pathway_c": "Ribosome ",
+        "si_down_log_p": 2.715684979,
+        "si_log_p": 0,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Human Diseases",
+        "pathway_b": "Cancers",
+        "pathway_c": "Acute myeloid leukemia ",
+        "si_down_log_p": 0,
+        "si_log_p": 3.5987174218,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Human Diseases",
+        "pathway_b": "Cancers",
+        "pathway_c": "Bladder cancer ",
+        "si_down_log_p": 0,
+        "si_log_p": 3.8220368341,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Human Diseases",
+        "pathway_b": "Cancers",
+        "pathway_c": "Chronic myeloid leukemia ",
+        "si_down_log_p": 3.7068354674,
+        "si_log_p": 5.5743327937,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Human Diseases",
+        "pathway_b": "Cancers",
+        "pathway_c": "Colorectal cancer ",
+        "si_down_log_p": 4.4878173122,
+        "si_log_p": 7.3737296888,
+        "si_up_log_p": 2.794752204
+      },
+      {
+        "pathway_a": "Human Diseases",
+        "pathway_b": "Cancers",
+        "pathway_c": "Endometrial cancer ",
+        "si_down_log_p": 0,
+        "si_log_p": 2.3448239426,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Human Diseases",
+        "pathway_b": "Cancers",
+        "pathway_c": "Glioma ",
+        "si_down_log_p": 5.0538736092,
+        "si_log_p": 6.0706578824,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Human Diseases",
+        "pathway_b": "Cancers",
+        "pathway_c": "Melanoma ",
+        "si_down_log_p": 0,
+        "si_log_p": 2.6197052985,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Human Diseases",
+        "pathway_b": "Cancers",
+        "pathway_c": "Non-small cell lung cancer ",
+        "si_down_log_p": 0,
+        "si_log_p": 2.7437823327,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Human Diseases",
+        "pathway_b": "Cancers",
+        "pathway_c": "Pancreatic cancer ",
+        "si_down_log_p": 4.9113314885,
+        "si_log_p": 6.1170185754,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Human Diseases",
+        "pathway_b": "Cancers",
+        "pathway_c": "Pathways in cancer ",
+        "si_down_log_p": 5.3249429539,
+        "si_log_p": 13.6098575164,
+        "si_up_log_p": 8.4670188858
+      },
+      {
+        "pathway_a": "Human Diseases",
+        "pathway_b": "Cancers",
+        "pathway_c": "Prostate cancer ",
+        "si_down_log_p": 2.577177163,
+        "si_log_p": 2.9926442876,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Human Diseases",
+        "pathway_b": "Cancers",
+        "pathway_c": "Renal cell carcinoma ",
+        "si_down_log_p": 3.3679000883,
+        "si_log_p": 9.5440195357,
+        "si_up_log_p": 5.9464034389
+      },
+      {
+        "pathway_a": "Human Diseases",
+        "pathway_b": "Cancers",
+        "pathway_c": "Small cell lung cancer ",
+        "si_down_log_p": 0,
+        "si_log_p": 4.9101869789,
+        "si_up_log_p": 2.794752204
+      },
+      {
+        "pathway_a": "Human Diseases",
+        "pathway_b": "Cancers",
+        "pathway_c": "Thyroid cancer ",
+        "si_down_log_p": 0,
+        "si_log_p": 0,
+        "si_up_log_p": 3.0923424015
+      },
+      {
+        "pathway_a": "Human Diseases",
+        "pathway_b": "Infectious diseases",
+        "pathway_c": "Epithelial cell signaling in Helicobacter pylori infection ",
+        "si_down_log_p": 0,
+        "si_log_p": 3.6130703007,
+        "si_up_log_p": 4.0797762627
+      },
+      {
+        "pathway_a": "Human Diseases",
+        "pathway_b": "Infectious diseases",
+        "pathway_c": "Pathogenic Escherichia coli infection ",
+        "si_down_log_p": 0,
+        "si_log_p": 3.749551289,
+        "si_up_log_p": 6.528054582
+      },
+      {
+        "pathway_a": "Human Diseases",
+        "pathway_b": "Neurodegenerative diseases",
+        "pathway_c": "Amyotrophic lateral sclerosis (ALS) ",
+        "si_down_log_p": 0,
+        "si_log_p": 2.8737462257,
+        "si_up_log_p": 2.6721317458
+      },
+      {
+        "pathway_a": "Metabolism",
+        "pathway_b": "Carbohydrate metabolism",
+        "pathway_c": "Citrate cycle (TCA cycle) ",
+        "si_down_log_p": 3.1050436162,
+        "si_log_p": 0,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Metabolism",
+        "pathway_b": "Carbohydrate metabolism",
+        "pathway_c": "Inositol phosphate metabolism ",
+        "si_down_log_p": 3.2649528609,
+        "si_log_p": 0,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Metabolism",
+        "pathway_b": "Lipid metabolism",
+        "pathway_c": "Biosynthesis of unsaturated fatty acids ",
+        "si_down_log_p": 3.3484108833,
+        "si_log_p": 0,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Metabolism",
+        "pathway_b": "Overview",
+        "pathway_c": "Fatty acid metabolism ",
+        "si_down_log_p": 0,
+        "si_log_p": 5.2068524322,
+        "si_up_log_p": 2.9249995197
+      },
+      {
+        "pathway_a": "Organismal Systems",
+        "pathway_b": "Development",
+        "pathway_c": "Axon guidance ",
+        "si_down_log_p": 0,
+        "si_log_p": 2.8543653661,
+        "si_up_log_p": 4.2084053805
+      },
+      {
+        "pathway_a": "Organismal Systems",
+        "pathway_b": "Endocrine system",
+        "pathway_c": "Insulin signaling pathway ",
+        "si_down_log_p": 5.2987148138,
+        "si_log_p": 4.9162562693,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Organismal Systems",
+        "pathway_b": "Endocrine system",
+        "pathway_c": "Progesterone-mediated oocyte maturation ",
+        "si_down_log_p": 2.7875166442,
+        "si_log_p": 3.940003352,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Organismal Systems",
+        "pathway_b": "Immune system",
+        "pathway_c": "Complement and coagulation cascades ",
+        "si_down_log_p": 0,
+        "si_log_p": 0,
+        "si_up_log_p": 6.0722017097
+      },
+      {
+        "pathway_a": "Organismal Systems",
+        "pathway_b": "Immune system",
+        "pathway_c": "Fc epsilon RI signaling pathway ",
+        "si_down_log_p": 0,
+        "si_log_p": 2.4618550794,
+        "si_up_log_p": 2.4567776678
+      },
+      {
+        "pathway_a": "Organismal Systems",
+        "pathway_b": "Immune system",
+        "pathway_c": "Fc gamma R-mediated phagocytosis ",
+        "si_down_log_p": 4.2424458668,
+        "si_log_p": 5.483544793,
+        "si_up_log_p": 0
+      },
+      {
+        "pathway_a": "Organismal Systems",
+        "pathway_b": "Immune system",
+        "pathway_c": "T cell receptor signaling pathway ",
+        "si_down_log_p": 0,
+        "si_log_p": 0,
+        "si_up_log_p": 3.4071786689
+      },
+      {
+        "pathway_a": "Organismal Systems",
+        "pathway_b": "Nervous system",
+        "pathway_c": "Long-term depression ",
+        "si_down_log_p": 0,
+        "si_log_p": 0,
+        "si_up_log_p": 3.09175378
+      },
+      {
+        "pathway_a": "Organismal Systems",
+        "pathway_b": "Nervous system",
+        "pathway_c": "Neurotrophin signaling pathway ",
+        "si_down_log_p": 4.0257999936,
+        "si_log_p": 5.6344356247,
+        "si_up_log_p": 0
+      }
+    ]
+  },
+  "message": "OK",
+  "status": 0
+}

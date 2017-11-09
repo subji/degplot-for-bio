@@ -1,0 +1,18 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/subji/degplot-for-bio",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^4.11.0",
+    "jquery": "^3.2.1"
+  }
+}
